@@ -1,0 +1,6 @@
+1. [[_Umumiy qon tahlili]]
+2. [[_Biokimyoviy tahlil]]
+3. [[_Immunologik tahlil]]
+4. [[_TORCh infeksiyalari]]
+5. [[_Onkomarkerlar]]
+6. [[_Umumiy siydik tahlili]]

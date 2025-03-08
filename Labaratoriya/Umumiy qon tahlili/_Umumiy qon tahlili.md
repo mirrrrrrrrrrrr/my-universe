@@ -1,8 +1,0 @@
-1. [[Eritrotsitlar haqida (RBC)]]
-2. [[Anemiyalar va ularning turlari]]
-3. [[Gemoglobin ko'rsatkichlari (HGB)]]
-4. [[Eritrotsitlar cho'kish tezligi (SOE)]]
-5. [[Leykotsitlar (WBC)]]
-6. [[Leykozlar va ularning turlari]]
-7. [[Trombotsitlar (PLT)]]
-8. [[Qon ivishi va unga tasir qiladigan omillar (VSK)]]
