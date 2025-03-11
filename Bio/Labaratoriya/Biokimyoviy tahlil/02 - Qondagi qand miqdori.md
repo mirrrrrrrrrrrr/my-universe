@@ -14,13 +14,10 @@ Gipoglikemiya chegarasi: 3.9 mmol/L dan past — qand yetishmovchiligi belgisi.
 ---
 ## Organizmdagi asosiy vazifalari:
 
->Energiya ta’minoti: Hujayralar glyukozani parchalaydi va energiya ishlab chiqaradi.
-
->Miya faoliyati: Miya glyukozadan asosiy yoqilg‘i sifatida foydalanadi.
-
->Zaxira yaratish: Ortiqcha glyukoza glikogen shaklida jigarda va mushaklarda saqlanadi.
-
->Gormonlar balansini ta’minlash: Insulin va glyukagon kabi gormonlar orqali qand miqdori muvozanatda saqlanadi.
+- Energiya ta’minoti: Hujayralar glyukozani parchalaydi va energiya ishlab chiqaradi.
+- Miya faoliyati: Miya glyukozadan asosiy yoqilg‘i sifatida foydalanadi.
+- Zaxira yaratish: Ortiqcha glyukoza glikogen shaklida jigarda va mushaklarda saqlanadi.
+- Gormonlar balansini ta’minlash: Insulin va glyukagon kabi gormonlar orqali qand miqdori muvozanatda saqlanadi.
 
 ---
 ## Qondagi qand miqdori oshganda (giperglikemiya):
