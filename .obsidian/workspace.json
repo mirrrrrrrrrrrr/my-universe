@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d674a96e61536a38",
+        "id": "f584dde4580ccd16",
         "type": "tabs",
         "children": [
           {
-            "id": "aa5a63a6e0507b2e",
+            "id": "0b34165db21005d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -165,11 +165,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa5a63a6e0507b2e",
+  "active": "0b34165db21005d1",
   "lastOpenFiles": [
     "Languages/English/Beginner/Beginner.md",
-    "Languages/English/Beginner/09 - Possessive (Egalik olmoshlari).md",
+    "Languages/English/Beginner/10 - Present simple.md",
+    "Languages/English/Beginner/06 - His, her.md",
+    "Languages/English/Beginner/07 - Jobs.md",
     "Languages/English/Beginner/08 - Social Expressions.md",
+    "Languages/English/Beginner/01 - To be.md",
+    "Languages/English/Beginner/09 - Possessive (Egalik olmoshlari).md",
     "Languages/English/English.md",
     "Languages/Languages.md",
     "IT/IT.md",
@@ -191,11 +195,7 @@
     "Languages/English",
     "LICENSE",
     "Bio/Labaratoriya/Umumiy siydik tahlili/01 - Siydikdagi leykositlar koʻrsatgichi.md",
-    "Bio/Labaratoriya/Umumiy siydik tahlili/03 - Siydikdagi bilirubin, oqsil va glyukoza koʻrsatgichi.md",
-    "Bio/Labaratoriya/Umumiy siydik tahlili/02 - Siydikdagi eritrositlar koʻrsatgichi.md",
     "Bio/Labaratoriya/Umumiy siydik tahlili",
-    "Bio/Labaratoriya/Onkomarkerlar/04 - aFP (Alfa-fetoprotein).md",
-    "Bio/Labaratoriya/Onkomarkerlar/03 - ACE va CA 242.md",
     "Bio/Labaratoriya/Onkomarkerlar",
     "Bio/Labaratoriya/TORCh infeksiyalari",
     "Bio/Labaratoriya/Immunologik tahlil",

@@ -7,3 +7,4 @@
 7. [[07 - Jobs]]
 8. [[08 - Social Expressions]]
 9. [[09 - Possessive (Egalik olmoshlari)]]
+10. [[10 - Present simple]]
