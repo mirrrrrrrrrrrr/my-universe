@@ -6,3 +6,4 @@
 6. [[06 - His, her]]
 7. [[07 - Jobs]]
 8. [[08 - Social Expressions]]
+9. [[09 - Possessive (Egalik olmoshlari)]]
