@@ -1,5 +1,5 @@
 let
-  workflow = builtins.toFile "ci.yml" ''
+  workflowContent = ''
     name: CI
 
     on:
@@ -26,4 +26,8 @@ let
               "
   '';
 in
-  workflow
+  # Faylni bevosita real YAML sifatida chiqarish
+  builtins.writeTextFile {
+    name = "ci.yml";
+    text = workflowContent;
+  }
