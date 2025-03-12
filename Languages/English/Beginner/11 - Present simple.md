@@ -110,3 +110,4 @@ dan foydalanamiz. **(nimaga qilmaysan qil)**
 - I am bored
     
 - Why don't you study?
+
