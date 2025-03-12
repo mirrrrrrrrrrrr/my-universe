@@ -171,6 +171,8 @@
   },
   "active": "0b34165db21005d1",
   "lastOpenFiles": [
+    "workflow.nixBUZt5e.bck",
+    "workflow.nix",
     "Languages/English/Beginner/Beginner.md",
     "Languages/English/Beginner/11 - Present simple.md",
     "Languages/English/Beginner/10 - Sentences.md",
@@ -196,7 +198,6 @@
     "Bio/Labaratoriya/Biokimyoviy tahlil/03 - Qondagi mochevina, kreatinin va siydik kislota.md",
     "My Universe.md",
     "README.md",
-    "Bio/Labaratoriya/Biokimyoviy tahlil/02 - Qondagi qand miqdori.md",
     "Languages/English",
     "LICENSE",
     "Bio/Labaratoriya/Umumiy siydik tahlili",
@@ -206,7 +207,6 @@
     "Bio/Labaratoriya/Biokimyoviy tahlil",
     "Bio/Molekulyar doking",
     "Bio",
-    "IT/Frontend",
     "Untitled.canvas",
     "Labaratoriya/Universe.canvas",
     "Untitled 1.canvas"
