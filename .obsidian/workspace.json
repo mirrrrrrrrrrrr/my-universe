@@ -11,10 +11,14 @@
             "id": "0b34165db21005d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Languages/English/Beginner/11 - Present simple.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "11 - Present simple"
             }
           }
         ]
@@ -168,7 +172,9 @@
   "active": "0b34165db21005d1",
   "lastOpenFiles": [
     "Languages/English/Beginner/Beginner.md",
-    "Languages/English/Beginner/10 - Present simple.md",
+    "Languages/English/Beginner/11 - Present simple.md",
+    "Languages/English/Beginner/10 - Sentences.md",
+    "Languages/English/Beginner/12 - Have & Has.md",
     "Languages/English/Beginner/06 - His, her.md",
     "Languages/English/Beginner/07 - Jobs.md",
     "Languages/English/Beginner/08 - Social Expressions.md",
@@ -191,10 +197,8 @@
     "My Universe.md",
     "README.md",
     "Bio/Labaratoriya/Biokimyoviy tahlil/02 - Qondagi qand miqdori.md",
-    "Bio/Labaratoriya/Biokimyoviy tahlil/01 - Qondagi fermentlar.md",
     "Languages/English",
     "LICENSE",
-    "Bio/Labaratoriya/Umumiy siydik tahlili/01 - Siydikdagi leykositlar koʻrsatgichi.md",
     "Bio/Labaratoriya/Umumiy siydik tahlili",
     "Bio/Labaratoriya/Onkomarkerlar",
     "Bio/Labaratoriya/TORCh infeksiyalari",
