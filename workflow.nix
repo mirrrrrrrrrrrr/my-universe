@@ -26,8 +26,4 @@ let
               "
   '';
 in
-  # Faylni bevosita real YAML sifatida chiqarish
-  builtins.writeTextFile {
-    name = "ci.yml";
-    text = workflowContent;
-  }
+  builtins.toFile "ci.yml" workflowContent
