@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f584dde4580ccd16",
+        "id": "a1518ba8f93dfbc6",
         "type": "tabs",
         "children": [
           {
-            "id": "0b34165db21005d1",
+            "id": "b5934f8f862595c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Languages/English/Beginner/11 - Present simple.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11 - Present simple"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261.5
+    "width": 226.5
   },
   "right": {
     "id": "1245fbcd34662dda",
@@ -169,8 +165,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b34165db21005d1",
+  "active": "b5934f8f862595c8",
   "lastOpenFiles": [
+    "IT/IT.md",
+    "IT/Backend/Backend.md",
+    "IT/Backend/Node.js/Node.js.md",
+    "IT/Backend/Node.js/Basics/01 - Modules.md",
+    "Node.js.md",
+    "IT/Backend/Node.js/Basics",
+    "IT/Backend/Node.js",
+    "Languages/English/Beginner/Beginner.md",
+    "Languages/English/Beginner/11 - Present simple.md",
     "result/ci.yml",
     "result",
     "workflow.nixYmWCcm.bck",
@@ -179,9 +184,6 @@
     "workflow.nixGC9ogl.bck",
     "workflow.nixu7m4Yw.bck",
     "workflow.nixBUZt5e.bck",
-    "workflow.nix",
-    "Languages/English/Beginner/Beginner.md",
-    "Languages/English/Beginner/11 - Present simple.md",
     "Languages/English/Beginner/10 - Sentences.md",
     "Languages/English/Beginner/12 - Have & Has.md",
     "Languages/English/Beginner/06 - His, her.md",
@@ -191,9 +193,7 @@
     "Languages/English/Beginner/09 - Possessive (Egalik olmoshlari).md",
     "Languages/English/English.md",
     "Languages/Languages.md",
-    "IT/IT.md",
     "IT/Frontend/Frontend.md",
-    "IT/Backend/Backend.md",
     "Bio/Bio.md",
     "Bio/Labaratoriya/Labaratoriya diagnostikasi.md",
     "Bio/Labaratoriya/Umumiy siydik tahlili/Umumiy siydik tahlili.md",
@@ -203,10 +203,6 @@
     "Bio/Labaratoriya/Immunologik tahlil/Immunologik tahlil.md",
     "Bio/Labaratoriya/Biokimyoviy tahlil/Biokimyoviy tahlil.md",
     "Bio/Labaratoriya/Biokimyoviy tahlil/03 - Qondagi mochevina, kreatinin va siydik kislota.md",
-    "My Universe.md",
-    "README.md",
-    "Languages/English",
-    "LICENSE",
     "Untitled.canvas",
     "Labaratoriya/Universe.canvas",
     "Untitled 1.canvas"
