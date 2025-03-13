@@ -1,4 +1,5 @@
 1. [[01 - Modules]]
+2. [[02 - Events]]
 
 ## What is Node.js?
 

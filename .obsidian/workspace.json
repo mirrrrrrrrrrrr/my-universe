@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a1518ba8f93dfbc6",
+        "id": "97b8f934f21a9e68",
         "type": "tabs",
         "children": [
           {
-            "id": "b5934f8f862595c8",
+            "id": "7f5fc8925adeacd8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "IT/Languages/JavaScript/01 - variables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - variables"
             }
           }
         ]
@@ -165,12 +169,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5934f8f862595c8",
+  "active": "7f5fc8925adeacd8",
   "lastOpenFiles": [
-    "IT/IT.md",
-    "IT/Backend/Backend.md",
     "IT/Backend/Node.js/Node.js.md",
+    "IT/IT.md",
+    "IT/Languages/Languages.md",
+    "IT/Languages/JavaScript/JavaScript.md",
+    "IT/Languages/JavaScript/01 - variables.md",
+    "IT/Languages/JavaScript",
+    "IT/Languages",
+    "IT/Backend/Node.js/Basics/02 - Events.md",
     "IT/Backend/Node.js/Basics/01 - Modules.md",
+    "IT/Backend/Backend.md",
     "Node.js.md",
     "IT/Backend/Node.js/Basics",
     "IT/Backend/Node.js",
@@ -182,8 +192,6 @@
     "workflow.nixm28Fvx.bck",
     "workflow.nixJkzd0L.bck",
     "workflow.nixGC9ogl.bck",
-    "workflow.nixu7m4Yw.bck",
-    "workflow.nixBUZt5e.bck",
     "Languages/English/Beginner/10 - Sentences.md",
     "Languages/English/Beginner/12 - Have & Has.md",
     "Languages/English/Beginner/06 - His, her.md",
@@ -199,10 +207,6 @@
     "Bio/Labaratoriya/Umumiy siydik tahlili/Umumiy siydik tahlili.md",
     "Bio/Labaratoriya/Umumiy qon tahlili/Umumiy qon tahlili.md",
     "Bio/Labaratoriya/TORCh infeksiyalari/TORCh infeksiyalari.md",
-    "Bio/Labaratoriya/Onkomarkerlar/Onkomarkerlar.md",
-    "Bio/Labaratoriya/Immunologik tahlil/Immunologik tahlil.md",
-    "Bio/Labaratoriya/Biokimyoviy tahlil/Biokimyoviy tahlil.md",
-    "Bio/Labaratoriya/Biokimyoviy tahlil/03 - Qondagi mochevina, kreatinin va siydik kislota.md",
     "Untitled.canvas",
     "Labaratoriya/Universe.canvas",
     "Untitled 1.canvas"

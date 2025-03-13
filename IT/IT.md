@@ -1,2 +1,2 @@
-1. [[Backend]]
-2. [[Frontend]]
+1. [[IT/Languages/Languages|Languages]]
+2. [[Backend]]
