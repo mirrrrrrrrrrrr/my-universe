@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97b8f934f21a9e68",
+        "id": "3c2ebd6db93d0afd",
         "type": "tabs",
         "children": [
           {
-            "id": "7f5fc8925adeacd8",
+            "id": "d6e0fd0534c3a684",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -165,18 +165,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f5fc8925adeacd8",
+  "active": "d6e0fd0534c3a684",
   "lastOpenFiles": [
+    "IT/Backend/Node.js/Basics/02 - Events.md",
+    "IT/Backend/Node.js/Basics/01 - Modules.md",
     "IT/Languages/Languages.md",
     "IT/Languages/JavaScript/JavaScript.md",
     "IT/Languages/JavaScript/02 - hoisting.md",
     "IT/Languages/JavaScript/01 - variables.md",
-    "IT/Backend/Node.js/Node.js.md",
     "IT/IT.md",
+    "IT/Backend/Node.js/Node.js.md",
     "IT/Languages/JavaScript",
     "IT/Languages",
-    "IT/Backend/Node.js/Basics/02 - Events.md",
-    "IT/Backend/Node.js/Basics/01 - Modules.md",
     "IT/Backend/Backend.md",
     "Node.js.md",
     "IT/Backend/Node.js/Basics",
