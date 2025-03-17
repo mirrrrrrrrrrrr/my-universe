@@ -14,3 +14,11 @@
 - global elon qilinsa `window` obyektiga yoziladi
 - bir xil nom bilan qayta elon qilish ishlaydi (`redeclaring`)
 
+Avvallari `var`-ni global o'zgaruvchiga aylanib ketishini oldini olishda IIFE functiondan foydalanilgan:
+```javascript
+(function() {
+	var message = "Hello";
+	alert(message);
+})();
+```
+
