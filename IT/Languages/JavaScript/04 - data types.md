@@ -152,3 +152,7 @@ The `object` type is special.
 All other types are called “primitive” because their values can contain only a single thing (be it a string or a number or whatever). In contrast, objects are used to store collections of data and more complex entities.
 
 Being that important, objects deserve a special treatment. We’ll deal with them later in the chapter [Objects](https://javascript.info/object), after we learn more about primitives.
+
+### Obyektlar qanday ishlaydi? Primitive qiymatlardan nima farqi bor?
+
+Obyektlar primitive qiymatlardan farqli o'laroq, `call stack`-da `reference` saqlaydi. Bu reference bizni obyektning `heap`-dagi manzilida turgan qiymatiga olib boradi. Shu sabab obyektlar **mutable**, primitive qiymatlar `immutable` deyiladi
