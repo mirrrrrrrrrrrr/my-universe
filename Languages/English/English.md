@@ -1,1 +1,1 @@
-1.[[Beginner]] 
+1. Beginner - [[Beginner]] 

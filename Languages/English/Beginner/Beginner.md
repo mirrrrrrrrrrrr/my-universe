@@ -1,11 +1,14 @@
-1. [[01 - To be]]
-2. [[02 - Greetings in English]]
-3. [[03 - This is, it is]]
-4. [[04 - Numbers in English]]
-5. [[05 - Plurals]]
-6. [[06 - His, her]]
-7. [[07 - Jobs]]
-8. [[08 - Social Expressions]]
-9. [[09 - Possessive (Egalik olmoshlari)]]
-10. [[10 - Sentences]]
-11. [[11 - Present simple]]
+| Title                               | Links                                        |
+| ----------------------------------- | -------------------------------------------- |
+| To be                               | [[01 - To be]]                               |
+| Greetins in English                 | [[02 - Greetings in English]]                |
+| This is, It is                      | [[03 - This is, it is]]                      |
+| Numbers in English                  | [[04 - Numbers in English]]                  |
+| Plurals                             | [[05 - Plurals]]                             |
+| His, her                            | [[06 - His, her]]                            |
+| Jobs                                | [[07 - Jobs]]                                |
+| Social Expressions                  | [[08 - Social Expressions]]                  |
+| Possessive                          | [[09 - Possessive (Egalik olmoshlari)]]      |
+| Sentences                           | [[10 - Sentences]]                           |
+| Present Simple                      | [[11 - Present simple]]                      |
+| Used to, To be used to, Get used to | [[12 - Used to, To be used to, Get used to]] |

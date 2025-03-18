@@ -27,3 +27,11 @@ Examples:
 >[!TIP]
 >**Used to** faqat o'tmish uchun ishlatiladi. Hozirgi odatlar uchun **often**, **usually** kabi so'zlardan foydalaniladi:
 >	- I usually play football on Sundays.
+
+### Exercises
+1. I used to read a lot of books
+2. I used to consume too much a gorilla energy drink
+3. He used to go on Instagram every day and waste his time
+4. John used to watch cartoon every weekend when he was a child
+5. Jacob and John used to play CSGO on Sundays
+
