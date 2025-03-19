@@ -4,3 +4,5 @@
 4. [[TORCh infeksiyalari]]
 5. [[Onkomarkerlar]]
 6. [[Umumiy siydik tahlili]]
+7. [[Gemostaz jarayon]]
+8. [[Revmoproba]]

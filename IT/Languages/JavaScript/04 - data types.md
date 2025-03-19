@@ -1,4 +1,4 @@
-#javascript #datatypes
+#datatypes
 
 >Malumot tiplari ikkiga bo'linadi: **Primitive** va **Non-primitive**
 

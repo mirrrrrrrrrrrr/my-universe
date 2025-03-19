@@ -1,4 +1,4 @@
-#javascript #variables
+#variables #assignmet 
 
 **JavaScript**-da `var`, `let` va `const` o'zgaruvchilari mavjud. **ES6**-dan avval `var`-ning o'zi ishlatilgan.
 

@@ -1,3 +1,5 @@
+#while-loop
+
 Zig's while loop has three parts - a condition, a block and a continue expression.
 
 Without a continue expression.
