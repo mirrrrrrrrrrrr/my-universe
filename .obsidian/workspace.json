@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a00eada453b2d151",
+        "id": "4d885769b48adf6b",
         "type": "tabs",
         "children": [
           {
-            "id": "8a5cf5f68ca4b5ca",
+            "id": "e294d9c4c5a79cd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,14 +168,22 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "8a5cf5f68ca4b5ca",
+  "active": "e294d9c4c5a79cd1",
   "lastOpenFiles": [
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2/Module 2.md",
+    "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2/01 - Asynchronous I-O with Callback Programming.md",
+    "IT/Languages/JavaScript/05 - Garbage collection.md",
+    "IT/Languages/JavaScript/04 - data types.md",
+    "Languages/English/Dictionary/Essential 2/Unit 14.md",
+    "Languages/English/Dictionary/Essential 2/Unit 13.md",
+    "Languages/English/Beginner/12 - Used to, To be used to, Get used to.md",
+    "Languages/English/Dictionary/Essential 2/Unit 13",
+    "Languages/English/Dictionary/Essential 2",
+    "Languages/English/Dictionary",
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Developing Back-End Apps with Node.js and Express.md",
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 1/Module 1.md",
     "IT/Backend/Node.js/Node.js.md",
     "IT/Backend/Node.js/Basics/Basics.md",
-    "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2/01 - Asynchronous I-O with Callback Programming.md",
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2",
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 1",
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express",
@@ -192,21 +200,13 @@
     "Bio/Labaratoriya/Revmoproba",
     "Bio/Labaratoriya/Gemostaz jarayon",
     "IT/Languages/Zig/01 - Assignment.md",
-    "IT/Languages/JavaScript/04 - data types.md",
     "IT/Languages/JavaScript/01 - variables.md",
     "IT/Languages/Zig/05 - For loops.md",
     "IT/Languages/Zig/04 - While loops.md",
     "IT/Languages/Zig/03 - If Expressions.md",
-    "IT/Languages/Zig/02 - Arrays.md",
-    "IT/Languages/JavaScript/JavaScript.md",
-    "IT/Languages/JavaScript/03 - temporal dead zone.md",
-    "IT/Languages/JavaScript/02 - hoisting.md",
     "IT/Languages/Zig",
     "Untitled.canvas",
     "IT/Languages/JavaScript",
-    "IT/Languages",
-    "IT/Backend/Node.js/Basics",
-    "IT/Backend/Node.js",
     "Labaratoriya/Universe.canvas",
     "Untitled 1.canvas"
   ]

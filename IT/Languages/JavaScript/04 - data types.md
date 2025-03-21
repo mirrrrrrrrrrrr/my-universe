@@ -145,7 +145,19 @@ The `symbol` type is used to create unique identifiers for objects. We have to m
 
 ---
 ## Non-primitive data types
-1. Object
+1. **Object**
+
+Obyektlar primitive qiymatlardan farqli o'laroq, `call stack`-da `reference` saqlaydi. Bu reference bizni obyektning `heap`-dagi manzilida turgan qiymatiga olib boradi. Shu sab obyektlar `mutable`, primitive qiymatlar `immutable` deyiladi.
+
+
+|            | Call         | stack         |     | Heap          |           |
+| ---------- | ------------ | ------------- | --- | ------------- | --------- |
+|            | **Address**  | **Value**     |     | **Address**   | **Value** |
+| *newVar*   | 00QDWWF5F52  | 1             |     | F5EF1EF15SEFE | [1, 2]    |
+| *myNumber* | WD6W4D6W4D   | 32            |     |               |           |
+| *myString* | 13Q13QD31D31 | 'hello'       |     |               |           |
+| *myArray*  | D1WD2WW32D   | F5EF1EF15SEFE |     |               |           |
+
 
 The `object` type is special.
 
