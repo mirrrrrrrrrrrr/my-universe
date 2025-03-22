@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4d885769b48adf6b",
+        "id": "93acea7881422357",
         "type": "tabs",
         "children": [
           {
-            "id": "e294d9c4c5a79cd1",
+            "id": "d8f72104e1fb0349",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2/01 - Asynchronous I-O with Callback Programming.md",
+                "file": "IT/Languages/JavaScript/06 - this.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 - Asynchronous I-O with Callback Programming"
+              "title": "06 - this"
             }
           }
         ]
@@ -168,11 +168,12 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "e294d9c4c5a79cd1",
+  "active": "d8f72104e1fb0349",
   "lastOpenFiles": [
-    "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2/Module 2.md",
-    "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2/01 - Asynchronous I-O with Callback Programming.md",
     "IT/Languages/JavaScript/05 - Garbage collection.md",
+    "IT/Languages/JavaScript/06 - this.md",
+    "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2/01 - Asynchronous I-O with Callback Programming.md",
+    "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2/Module 2.md",
     "IT/Languages/JavaScript/04 - data types.md",
     "Languages/English/Dictionary/Essential 2/Unit 14.md",
     "Languages/English/Dictionary/Essential 2/Unit 13.md",
@@ -203,7 +204,6 @@
     "IT/Languages/JavaScript/01 - variables.md",
     "IT/Languages/Zig/05 - For loops.md",
     "IT/Languages/Zig/04 - While loops.md",
-    "IT/Languages/Zig/03 - If Expressions.md",
     "IT/Languages/Zig",
     "Untitled.canvas",
     "IT/Languages/JavaScript",
