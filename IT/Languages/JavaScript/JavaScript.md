@@ -2,3 +2,7 @@
 2. Hoisting - [[02 - hoisting]]
 3. Temporal dead zone - [[03 - temporal dead zone]]
 4. Data types - [[04 - data types]]
+5. Garbage collectin - [[05 - Garbage collection]]
+6. `This` keyword - [[06 - this]]
+7. `call, apply, bind` - [[07 - call, apply, bind]]
+8. Map, Set, WeakMap, WeakSet - [[08 - Map, Set, WeakMap, WeakSet]]
