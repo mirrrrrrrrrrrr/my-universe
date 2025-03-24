@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "515406cc3f3580cf",
+        "id": "a796892668e9740c",
         "type": "tabs",
         "children": [
           {
-            "id": "63dea15138c86b9c",
+            "id": "24e9b2df26017271",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Languages/JavaScript/08 - Map, Set, WeakMap, WeakSet.md",
-                "mode": "source",
+                "file": "IT/Languages/JavaScript/09 - type coercion va type conversion.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 - Map, Set, WeakMap, WeakSet"
+              "title": "09 - type coercion va type conversion"
             }
           }
         ]
@@ -168,10 +168,14 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "63dea15138c86b9c",
+  "active": "24e9b2df26017271",
   "lastOpenFiles": [
-    "IT/Languages/JavaScript/07 - call, apply, bind.md",
     "IT/Languages/JavaScript/08 - Map, Set, WeakMap, WeakSet.md",
+    "IT/Languages/JavaScript/09 - type coercion va type conversion.md",
+    "IT/Languages/JavaScript/04 - data types.md",
+    "IT/Languages/JavaScript/05 - Garbage collection.md",
+    "IT/Languages/JavaScript/06 - this.md",
+    "IT/Languages/JavaScript/07 - call, apply, bind.md",
     "IT/Languages/JavaScript/JavaScript.md",
     "IT/IT.md",
     "IT/Frontend/Frontend.md",
@@ -184,9 +188,7 @@
     "IT/Frontend/Angular/TypeScript.md",
     "IT/Frontend/Angular",
     "IT/Frontend",
-    "IT/Languages/JavaScript/06 - this.md",
     "My Universe.md",
-    "IT/Languages/JavaScript/05 - Garbage collection.md",
     "Languages/English/English.md",
     "Languages/English/Dictionary/Dictionary.md",
     "Languages/English/Dictionary/Essential 2/Essential 2.md",
@@ -196,13 +198,11 @@
     "Languages/English/Beginner/08 - Social Expressions.md",
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2/01 - Asynchronous I-O with Callback Programming.md",
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2/Module 2.md",
-    "IT/Languages/JavaScript/04 - data types.md",
     "Languages/English/Dictionary/Essential 2/Unit 13.md",
     "Languages/English/Dictionary/Essential 2/Unit 13",
     "Languages/English/Dictionary/Essential 2",
     "Languages/English/Dictionary",
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Developing Back-End Apps with Node.js and Express.md",
-    "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 1/Module 1.md",
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2",
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 1",
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express",
