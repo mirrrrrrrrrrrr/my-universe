@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a796892668e9740c",
+        "id": "1a4f55cb07024d07",
         "type": "tabs",
         "children": [
           {
-            "id": "24e9b2df26017271",
+            "id": "82a05686f90d7116",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Languages/JavaScript/09 - type coercion va type conversion.md",
+                "file": "IT/Languages/JavaScript/14 - constructor functions.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "09 - type coercion va type conversion"
+              "title": "14 - constructor functions"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 285.5
   },
   "right": {
     "id": "1245fbcd34662dda",
@@ -168,15 +168,22 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "24e9b2df26017271",
+  "active": "82a05686f90d7116",
   "lastOpenFiles": [
-    "IT/Languages/JavaScript/08 - Map, Set, WeakMap, WeakSet.md",
+    "IT/Languages/JavaScript/06 - this.md",
+    "IT/Languages/JavaScript/14 - constructor functions.md",
+    "IT/Languages/JavaScript/13 - tagged template literals.md",
+    "IT/Languages/JavaScript/12 - optional chaining.md",
+    "IT/Languages/JavaScript/11 - oddiy va chiziqli funksiyalar.md",
+    "Languages/English/Tenses.md",
+    "IT/Languages/JavaScript/JavaScript.md",
+    "Languages/English/English.md",
+    "IT/Languages/JavaScript/10 - operator turlari.md",
     "IT/Languages/JavaScript/09 - type coercion va type conversion.md",
+    "IT/Languages/JavaScript/08 - Map, Set, WeakMap, WeakSet.md",
     "IT/Languages/JavaScript/04 - data types.md",
     "IT/Languages/JavaScript/05 - Garbage collection.md",
-    "IT/Languages/JavaScript/06 - this.md",
     "IT/Languages/JavaScript/07 - call, apply, bind.md",
-    "IT/Languages/JavaScript/JavaScript.md",
     "IT/IT.md",
     "IT/Frontend/Frontend.md",
     "IT/Frontend/Angular/Angular Junior Developer Path.md",
@@ -189,20 +196,13 @@
     "IT/Frontend/Angular",
     "IT/Frontend",
     "My Universe.md",
-    "Languages/English/English.md",
     "Languages/English/Dictionary/Dictionary.md",
     "Languages/English/Dictionary/Essential 2/Essential 2.md",
     "Languages/English/Dictionary/Essential 2/Unit 14.md",
     "Languages/English/Beginner/12 - Used to, To be used to, Get used to.md",
-    "Languages/English/Beginner/02 - Greetings in English.md",
-    "Languages/English/Beginner/08 - Social Expressions.md",
-    "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2/01 - Asynchronous I-O with Callback Programming.md",
-    "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2/Module 2.md",
-    "Languages/English/Dictionary/Essential 2/Unit 13.md",
     "Languages/English/Dictionary/Essential 2/Unit 13",
     "Languages/English/Dictionary/Essential 2",
     "Languages/English/Dictionary",
-    "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Developing Back-End Apps with Node.js and Express.md",
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 2",
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express/Module 1",
     "IT/Backend/Node.js/Developing Back-End Apps with Node.js and Express",

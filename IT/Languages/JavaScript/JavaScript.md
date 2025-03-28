@@ -6,3 +6,6 @@
 6. `This` keyword - [[06 - this]]
 7. `call, apply, bind` - [[07 - call, apply, bind]]
 8. Map, Set, WeakMap, WeakSet - [[08 - Map, Set, WeakMap, WeakSet]]
+9. Type coercion va type conversion - [[09 - type coercion va type conversion]]
+10. Operator turlari - [[10 - operator turlari]]
+11. Oddiy va chiziqli funksiyalar - [[11 - oddiy va chiziqli funksiyalar]]
