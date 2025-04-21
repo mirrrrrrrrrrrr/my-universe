@@ -6,3 +6,5 @@
 6. [[06 - Leykozlar va ularning turlari]]
 7. [[07 - Trombotsitlar (PLT)]]
 8. [[08 - Qon ivishi va unga tasir qiladigan omillar (VSK)]]
+9. [[09 - Gemotakrit ko'rsatkichi]]
+10. [[10 - Retikulotsitlar haqida]]

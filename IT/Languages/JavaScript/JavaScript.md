@@ -9,3 +9,6 @@
 9. Type coercion va type conversion - [[09 - type coercion va type conversion]]
 10. Operator turlari - [[10 - operator turlari]]
 11. Oddiy va chiziqli funksiyalar - [[11 - oddiy va chiziqli funksiyalar]]
+12. [[12 - optional chaining]]
+13. [[13 - tagged template literals]]
+14. [[14 - constructor functions]]

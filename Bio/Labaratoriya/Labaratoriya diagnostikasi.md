@@ -6,3 +6,4 @@
 6. [[Umumiy siydik tahlili]]
 7. [[Gemostaz jarayon]]
 8. [[Revmoproba]]
+9. [[Mavzularga oid]]
