@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6088d836c64a8289",
+        "id": "2b2485ece0130b25",
         "type": "tabs",
         "children": [
           {
-            "id": "68df60f89e9387d9",
+            "id": "1cc10c8532f6bca7",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -164,8 +164,13 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "68df60f89e9387d9",
+  "active": "84387ed90c8445a9",
   "lastOpenFiles": [
+    "Languages/English/Tenses.md",
+    "Languages/English/English.md",
+    "Languages/Languages.md",
+    "README.md",
+    "My Universe.md",
     "IT/Languages/JavaScript/JavaScript.md",
     "IT/Languages/JavaScript/14 - constructor functions.md",
     "IT/Databases/MongoDB/index.md",
@@ -188,11 +193,6 @@
     "Bio/Labaratoriya/Umumiy siydik tahlili/05 - Siydikdagi muhit va solishtirma og'irlik.md",
     "Bio/Labaratoriya/Umumiy siydik tahlili/04 - Siydikdagi tuzlar.md",
     "Bio/Labaratoriya/Onkomarkerlar/05 - Kalsiytonin.md",
-    "Bio/Labaratoriya/Immunologik tahlil/08  - Immunoglobulin G va M.md",
-    "Bio/Labaratoriya/Umumiy qon tahlili/10 - Retikulotsitlar haqida.md",
-    "Bio/Labaratoriya/Umumiy qon tahlili/09 - Gemotakrit ko'rsatkichi.md",
-    "Bio/Labaratoriya/Biokimyoviy tahlil/08 - Ruh (Zn).md",
-    "Bio/Labaratoriya/Biokimyoviy tahlil/07 - Glikozirlangan gemoglobin.md",
     "IT/Databases/MongoDB",
     "Untitled 1",
     "Untitled",
