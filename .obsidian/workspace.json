@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b2485ece0130b25",
+        "id": "8092daf96a2aae50",
         "type": "tabs",
         "children": [
           {
-            "id": "1cc10c8532f6bca7",
+            "id": "af73b4450fe282ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IT/Languages/Python/O'zgaruvchilar va malumot turlari/O'zgaruvchilar va malumot turlari.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "O'zgaruvchilar va malumot turlari"
             }
           }
         ]
@@ -164,8 +168,23 @@
       "daily-notes:Open today's daily note": false
     }
   },
-  "active": "84387ed90c8445a9",
+  "active": "af73b4450fe282ab",
   "lastOpenFiles": [
+    "IT/Languages/Python/Ilk qadam/Ilk qadam.md",
+    "IT/Languages/Python/O'zgaruvchilar va malumot turlari/O'zgaruvchilar va malumot turlari.md",
+    "IT/Languages/Python/Reja.md",
+    "O'zgaruvchilar va malumot turlar.md",
+    "O'zgaruvchilar.md",
+    "IT/Languages/Python/O'zgaruvchilar va malumot turlari",
+    "IT/Languages/Python/Ilk qadam",
+    "IT/Languages/Python",
+    "IT/Projects/Frontend/Structure.md",
+    "IT/Projects/Frontend",
+    "Untitled",
+    "IT/Projects",
+    "IT/Backend/Node.js/WebAssembly/MODULE 1 - Introduction to WebAssembly (WASM).md",
+    "IT/Backend/Node.js/WebAssembly/Mastering WebAssembly Integration with Node.js & TypeScript — Full Developer Roadmap.md",
+    "IT/Backend/Node.js/WebAssembly",
     "Languages/English/Tenses.md",
     "Languages/English/English.md",
     "Languages/Languages.md",
@@ -184,24 +203,9 @@
     "Bio/Labaratoriya/Revmoproba/Revmoproba.md",
     "Bio/Labaratoriya/Onkomarkerlar/Onkomarkerlar.md",
     "Bio/Labaratoriya/Immunologik tahlil/Immunologik tahlil.md",
-    "Bio/Labaratoriya/Biokimyoviy tahlil/Biokimyoviy tahlil.md",
-    "Bio/Labaratoriya/Mavzularga oid/Mavzularga oid.md",
-    "Bio/Labaratoriya/Mavzularga oid/02 - Surtma (Mazok) haqida.md",
-    "Bio/Labaratoriya/Mavzularga oid/01 - Vitamin D.md",
-    "Bio/Labaratoriya/Revmoproba/03 - Revmofaktorlar haqida.md",
     "Bio/Labaratoriya/Mavzularga oid",
-    "Bio/Labaratoriya/Umumiy siydik tahlili/05 - Siydikdagi muhit va solishtirma og'irlik.md",
-    "Bio/Labaratoriya/Umumiy siydik tahlili/04 - Siydikdagi tuzlar.md",
-    "Bio/Labaratoriya/Onkomarkerlar/05 - Kalsiytonin.md",
     "IT/Databases/MongoDB",
     "Untitled 1",
-    "Untitled",
-    "IT/Databases",
-    "IT/Backend/Node.js/Node course/10 - deployment",
-    "IT/Backend/Node.js/Node course/09 - TDD (test driven development)",
-    "IT/Backend/Node.js/Node course/08 - unit va integration testlar",
-    "IT/Backend/Node.js/Node course/07 - xatolarni boshqarish va log yozish",
-    "IT/Backend/Node.js/Node course/06 - autentifikatsiya va avtorizatsiya",
     "Untitled.canvas",
     "Labaratoriya/Universe.canvas",
     "Untitled 1.canvas"
